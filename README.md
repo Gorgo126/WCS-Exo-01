@@ -1,1 +1,1 @@
-Git réservé aux travaux de la WildCodeSchool
+Git réservé aux travaux de la WildCodeSchool !
